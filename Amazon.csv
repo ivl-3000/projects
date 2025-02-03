@@ -1,0 +1,15 @@
+category_id ,category_name  ,"seller_id	",seller_name,seller_rating,"product_id	",product_name,category_id,price,rating,review_count,seller_id,"review_id				",product_id,review_text,review_rating,review_date
+1,Electronics,"101	",TechWorld,4.5,1001,Smartphone Iphone 16Pro Maz,1,699.99,4.6,1200,101,"1				",1001,Great phone with excellent camera!,4.5,01-10-2023
+2,Books,"102	",BookLand,4.7,"1002			",Laptop Macbook Pro,1,1299.99,4.7,800,101,"2				",1001,Battery life could be better.,3.8,05-10-2023
+3,Home & Kitchen,"103		",HomeEssentials,4.3,"1003	",Python Programming Book,2,39.99,4.8,500,102,"3				",1003,Best Python book for beginners.,4.9,15-09-2023
+4,Fashion,"104	",FashionHub,4.6,"1004						",Coffee Maker,3,49.99,4.2,300,103,"4			",1005,Great sound quality and battery life!,4.6,10-10-2023
+5,Sports & Outdoors,"105		",OutdoorGear,4.4,"1005					",Wireless Earbuds,1,99.99,4.5,1500,101,"5	",1005,Comfortable fit but connectivity issues,3.9,12-10-2023
+6,Toys & Games,"106		",ToyWorld,4.8,"1006					",Yoga Mat,5,29.99,4.6,700,105,"6			",1006,Perfect for yoga and workouts!,4.7,20-09-2023
+7,Health & Personal Care,"107		",HealthPlus,4.7,"1007				",Action Camera,1,199.99,4.7,1200,101,"7		",1007,Amazing camera quality worth the price.,4.8,05-10-2023
+8,Automotive,"108		",AutoParts,4.3,"1008				",Board Game,6,49.99,4.8,600,106,"8			",1008,Fun game for family nights!,4.9,25-09-2023
+,,,,,"1009		",Vitamin C Supplements,7,19.99,4.4,900,107,"9		",1009,Helped boost my immunity.,4.5,01-10-2023
+,,,,,"1010	",Car Phone Mount,8,14.99,4.3,500,108,"10			",1010,Sturdy and easy to install,4.4,15-09-2023
+,,,,,1011,Running Shoes,4,79.99,4.7,1300,104,"11			",1011,Very comfortable for long runs.,4.7,08-10-2023
+,,,,,"1012		",Bluetooth Speaker,1,59.99,4.6,1100,101,"12	",1012,"Good Sound , but battery could last longer.",4.3,03-10-2023
+,,,,,"1013	",Camping Tent,5,149.99,4.5,800,105,"13			",1013,Spacious and durable tent.,4.6,30-09-2023
+,,,,,"1014	",LEGO Set,6,89.99,4.9,1000,106,"14		",1014,My kids love this LEGO set!,4.9,07-10-2023
